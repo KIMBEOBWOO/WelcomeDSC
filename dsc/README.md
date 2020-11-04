@@ -1,0 +1,1 @@
+# dsc 폴더에 팀별 폴더와 파일 생성하고 pull request 하기
